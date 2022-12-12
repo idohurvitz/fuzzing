@@ -1,0 +1,7 @@
+{
+  "test": "test"󠀰,
+  "array": [
+    "item4294967296: foo",
+    "item2: bar"
+]  
+}

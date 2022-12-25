@@ -1,3 +1,0 @@
-line = command " " buffer "\n"
-command = "VERSION" | "ECHO" | "EXIT"
-buffer = str.string
